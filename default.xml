@@ -10,8 +10,6 @@
            sync-c="true"
            sync-j="4" />
 
-  <!-- PAC manifest v18.0.0 | 18-Nov-2012-->
-
   <!-- CM -->
   <project groups="default" name="CyanogenMod/android_abi_cpp" path="abi/cpp" />
   <project groups="default" name="CyanogenMod/android_bionic" path="bionic" />
@@ -325,19 +323,19 @@
   <project groups="default" name="AOKP/packages_apps_DeskClock" path="packages/apps/DeskClock" revision="jb"/>
 
   <!-- PA -->
-  <project groups="default" name="ParanoidAndroid/android_external_doclava" path="external/doclava" />
-  <project groups="default" name="ParanoidAndroid/cm_system_core" path="system/core" />
-  <project groups="default" name="ParanoidAndroid/android_vendor_pa" path="vendor/pa" revision="d1ecd70a7f2f9965262b843360b021bc861fc036"/>
+  <project groups="default" name="Utacka/android_external_doclava" path="external/doclava" />
+  <project groups="default" name="Utacka/cm_system_core" path="system/core" />
+  <project groups="default" name="Utacka/android_vendor_pa" path="vendor/pa" revision="d1ecd70a7f2f9965262b843360b021bc861fc036"/>
 
   <!-- PAC -->
-  <project groups="default" name="PAC-man/android" path="android" />
+  <project groups="default" name="ultravioletnanokitty/pacman" path="android" />
   <project groups="default" name="PAC-man/android_frameworks_base" path="frameworks/base" />
   <project groups="default" name="PAC-man/android_packages_apps_Contacts" path="packages/apps/Contacts" />
   <project groups="default" name="PAC-man/android_packages_apps_Phone" path="packages/apps/Phone" />
   <project groups="default" name="PAC-man/android_packages_apps_Mms" path="packages/apps/Mms" />
   <project groups="default" name="PAC-man/android_packages_apps_Settings" path="packages/apps/Settings" />
   <project groups="default" name="PAC-man/android_packages_providers_ContactsProvider" path="packages/providers/ContactsProvider" />
-  <project groups="default" name="PAC-man/android_vendor_pac" path="vendor/pac" />
+  <project groups="default" name="ultravioletnanokitty/android_vendor_pac" path="vendor/pac" />
   <project groups="default" name="PAC-man/android_prebuilt_linux-x86_toolchain_arm-gnueabihf-linaro-4.7" path="prebuilt/linux-x86/toolchain/arm-gnueabihf-linaro-4.7" revision="refs/heads/master" />
 
   <project groups="default" name="PAC-man/pac" path="pac" >

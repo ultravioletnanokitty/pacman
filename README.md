@@ -1,13 +1,11 @@
-Getting Started
+uvPAC4.1
 ---------------
 
-To get started with PAC-man, you'll need to get
-familiar with [Git and Repo](http://source.android.com/download/using-repo).
+ultraviolet's fork of PAC-man 4.1
 
-To initialize your local repository using the PAC-man trees, use a command like this:
+goals of this fork:
 
-    repo init -u git://github.com/PAC-man/android.git -b jellybean
-
-Then to sync up:
-
-    repo sync
+- add support for currently vacant devices that only have 4.1
+- add bootlogo overlays for missing vendors
+- optimise and update everything
+- maybe a full-on PAC4.1 fork in the future?
