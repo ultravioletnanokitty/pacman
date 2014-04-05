@@ -241,6 +241,7 @@
   <project groups="default" name="CyanogenMod/android_packages_apps_KeyChain" path="packages/apps/KeyChain" />
   <project groups="default" name="CyanogenMod/android_packages_apps_Launcher2" path="packages/apps/Launcher2" />
   <project groups="default" name="CyanogenMod/android_packages_apps_LegacyCamera" path="packages/apps/LegacyCamera" />
+  <project groups="default" name="CyanogenMod/android_packages_apps_Mms" path="packages/apps/Mms" />
   <project groups="default" name="CyanogenMod/android_packages_apps_Music" path="packages/apps/Music" />
   <project groups="default" name="CyanogenMod/android_packages_apps_MusicFX" path="packages/apps/MusicFX" />
   <project groups="default" name="CyanogenMod/android_packages_apps_Nfc" path="packages/apps/Nfc" />
@@ -332,7 +333,7 @@
   <project groups="default" name="PAC-man/android_frameworks_base" path="frameworks/base" />
   <project groups="default" name="PAC-man/android_packages_apps_Contacts" path="packages/apps/Contacts" />
   <project groups="default" name="PAC-man/android_packages_apps_Phone" path="packages/apps/Phone" />
-  <project groups="default" name="PAC-man/android_packages_apps_Mms" path="packages/apps/Mms" />
+
   <project groups="default" name="PAC-man/android_packages_apps_Settings" path="packages/apps/Settings" />
   <project groups="default" name="PAC-man/android_packages_providers_ContactsProvider" path="packages/providers/ContactsProvider" />
   <project groups="default" name="ultravioletnanokitty/android_vendor_pac" path="vendor/pac" />
